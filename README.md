@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wilmela
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning react, react-native, and typescript (of course am not so new to these technologies, just trying to grow daily)
+- 🌱 I’m currently learning by developing as much projects as i can
 - 💞️ I’m looking forward to collaborations that would help grow my problem solving skills
 - 📫 You can email me on chukumelawilson@gmail.com
 
