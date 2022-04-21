@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilmela
-- 👀 I’m interested in web and mobile app development
+- 👀 I’m interested in blockchain development, web and mobile app development
 - 🌱 I’m currently learning by developing as much projects as i can
 - 💞️ I’m looking forward to collaborations that would help grow my problem solving skills
 - 📫 You can email me on chukumelawilson@gmail.com
