@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mela
-- 👀 Very much interested in blockchain, web and mobile app development
+## 👋 Hi, I’m Mela
+- 👀 Very interested in web and mobile app development
 - 💞️ I’m open to collaborations
 - 📫 Reach me on chukumelawilson@gmail.com
 
